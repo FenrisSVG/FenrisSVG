@@ -1,8 +1,12 @@
 <p align="center" width="300">
-   <h3 align="center">¡Hola 👋! Soy Félix Sandoval 👨🏻‍💻</h3>
+   <h3 align="center">¡Hola 👋! Soy Félix Sandoval <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 </p>
 
-<p align="center">Soy <strong>Estudiante en Desarrollo</strong> en el repositoria de la UNI.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Estudiante en Desarrollo</strong> en el repositoria de la UNI.</p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ``` import SoftwareDeveloper from 'thompsonemerson';
 
