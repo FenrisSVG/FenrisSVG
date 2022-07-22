@@ -6,8 +6,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
 ``` import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends FrontEndDeveloper {
@@ -20,7 +18,8 @@ class Bio extends FrontEndDeveloper {
 class Skills extends FrontEndDeveloper {
   languages  = ['JavaScript', 'C#','Typescript','HTML','CSS'];
   databases  = ['MySQL', 'MongoDB','SQL Server'];
-  tools = ['VueJS','Vite','Gulp','Sass','TaildwindCSS','A little bit for Github Actions'];
+  tools = ['VueJS','Vite','Gulp','Sass','TaildwindCSS',
+           'A little bit about Github Actions'];
 } 
 ```
 ## 📫 How to reach me: 
