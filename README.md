@@ -9,8 +9,9 @@
 ``` import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends FrontEndDeveloper {
-  name     = 'Félix Sandoval';
-  title    = 'Universitario';
+  name     = 'Félix Arturo Sandoval Chávez';
+  title    = ['Bachiller','Egresado'];
+  Specialitys = 'Inteligencia Artificial'
   University  = 'Universidad Nacional de Ingenieria';
   location = 'Managua, Nicaragua';
 }
