@@ -16,10 +16,11 @@ class Bio extends FrontEndDeveloper {
 }
 
 class Skills extends FrontEndDeveloper {
-  languages  = ['JavaScript', 'C#','Typescript','HTML','CSS'];
-  databases  = ['MySQL', 'MongoDB','SQL Server'];
+  languages  = ['JavaScript', 'C#','Typescript','HTML5','CSS3'];
+  databases  = ['MySQL', 'MongoDB','SQL Server','Supabase'];
   tools = ['VueJS','Vite','Gulp','Sass','TaildwindCSS',
-           'A little bit about Github Actions'];
+           'A little bit about Github Actions','Cypress',
+           'Figma','ProcessMaker'];
 } 
 ```
 ## 📫 How to reach me: 
